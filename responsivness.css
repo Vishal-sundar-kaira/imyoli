@@ -1,0 +1,12 @@
+@media screen and (max-width:1000px){
+    nav{
+        flex-direction: column;
+    }
+    header{
+        height: 115px;
+    }
+
+    ul{
+        margin: 10px;
+    }
+}
